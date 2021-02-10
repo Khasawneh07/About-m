@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://rihahalim.files.wordpress.com/2015/01/background-2.jpg?w=1180&h=610&crop=1");
+    
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+#m1{
+    color: brown;
+    font-weight: bold;
+}
+
+.t1{
+    color: midnightblue;
+
+}
+
+div{
+    color: rgb(0, 26, 255);
+    border-style: none;
+}
+.t2{
+    color: brown;
+    font-style: italic;
+}
+body{
+    font-size: large;
+}
